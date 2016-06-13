@@ -1,0 +1,13 @@
+<html>
+
+<body>
+
+   Name:<input type="text"><br>
+   Info:<input type="text"><br>
+   Category:<input type="text"><br>
+   ParentCategory:<input type="text"><br>
+   Active:<input type="button"><br>
+
+   
+</body>
+</html>
